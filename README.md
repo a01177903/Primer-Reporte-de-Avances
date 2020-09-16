@@ -47,9 +47,9 @@ _ …. _ ó * ... *: Se utiliza para poner el texto en itálica o cursiva.
 
 [ …. ] ó ( ... ): Se utiliza para indicar un hyperlink. En los corchetes se indica el nombre del link y entre paréntesis la url de la página, video, etc.
 
-`...`: Se utiliza para indicar que lo que está entre los tildes es línea de código
+````: Se utiliza para indicar que lo que está entre los tildes es línea de código
 
-```markdown ```: Se utiliza para escribir texto y que no corra como código. 
+``` ```..``` ```: Se utiliza para escribir texto y que no corra como código. 
 
 -[X]: Se utiliza para crear una lista de tareas hechas en este caso se le pone la x para que aparezca palomeada la casilla y si no tiene x sale vacía.
 
