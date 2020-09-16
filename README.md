@@ -18,10 +18,15 @@
 
 ### El modelo de uso de IoT seleccionado colaborativamente: Amazon
 1. **¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?**
+
 2. **¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?**
+> Los que se benefician son los clientes, ya que buscan comprar cosas en internet por medio de la aplicación de Amazon, dado que se tiene una buena eficiencia, aparte de que es una plataforma segura que trata de evolucionar constantemente para mejorar su servicio al cliente.
 3. **¿Cuál es la propuesta de valor para estos públicos?**
+
 4. **¿Cuál es el proceso que involucra a estos públicos?**
+
 5. **¿Qué datos se generan y registran durante este proceso?**
+
 
 ### Guía Rápida de GitHub
 
