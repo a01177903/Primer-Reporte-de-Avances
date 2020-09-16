@@ -17,5 +17,11 @@
 | Google | Sector Empresarial, de Información, de Desarrollo y Automatización. | Contienen diversos modelos IoT por ejemplo: Google Drive (Servicio de Nube), Google Nest (Termostato inteligente que estudia los patrones del dueño al regular dicho termostato), entre muchos otros. | Este resuelve guardar cualquier información que el usuario deseé en un servicio de almacenamiento de datos de alta capacidad dependiendo a la preferencia del usuario. Por otra parte, la solución de Google Nest, es evitar cualquier accidente y hace que el usuario cambie la temperatura con pasos muy reducidos desde el celular o el mismo termostato lo hace por ti dependiendo los patrones que ha estudiado el dispositivo. |
 
 ### El modelo de uso de IoT seleccionado colaborativamente: Amazon
+1. **¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?**
+2. **¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?**
+3. **¿Cuál es la propuesta de valor para estos públicos?**
+4. **¿Cuál es el proceso que involucra a estos públicos?**
+5. **¿Qué datos se generan y registran durante este proceso?**
 
 ### Guía Rápida de GitHub
+
