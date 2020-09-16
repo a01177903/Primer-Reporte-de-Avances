@@ -8,7 +8,10 @@ Edgardo Cantú A01283899
 
 ### Empresas Identificadas Individualmente
 
-1. | Empresa | Sector | ¿En qué consiste? | Problemática |
-   | ----- | ---- | ------------------------ | ------------------------ |
-   | Coca Cola |  |  |  |
-   | BBVA City |  |  |  |
+| Empresa | Sector | ¿En qué consiste? | Problemática |
+| ----- | ---- | ------------------------ | ------------------------ |
+| Coca Cola |  |  |  |
+| BBVA City |  |  |  |
+| Amazon    |  |  |  |
+| KORE Wireless |  |  |  |
+| Google |  |  |  |
