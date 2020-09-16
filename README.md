@@ -35,6 +35,6 @@ Los 6 comandos más importantes:
 - mkdir: Sirve para crear directorios.
 - touch: Sirve para crear un carpeta con los archivos.
 
-Fuentes: 
+Fuentes:
 Floriano, S. (2019, Enero 22). La guía básica de Git y Github para principiantes. Recuperada en Septiembre 16, 2020, de https://medium.com/@sthefany/primeros-pasos-con-github-7d5e0769158c
 La guía sencilla. (s.f.). Recuperada en Septiembre 16, 2020, de https://rogerdudler.github.io/git-guide/index.es.html
