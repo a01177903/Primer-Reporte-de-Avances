@@ -38,14 +38,15 @@ _ …. _ ó * ... *: Se utiliza para poner el texto en itálica o cursiva.
 -: Se utiliza para indicar una lista y es un tipo de viñetas
 1.: Se utiliza para enumerar e indicar una lista
 >: Se utiliza al principio del texto para indicar que es frase o texto de otra persona y crea un fondo de color diferente en ese texto solamente.
+
 [ …. ] ó ( ... ): Se utiliza para indicar un hyperlink. En los corchetes se indica el nombre del link y entre paréntesis la url de la página, video, etc.
 `Código`: Se utiliza para indicar que lo que está entre los tildes es línea de código
 ```markdown ```: Se utiliza para escribir texto y que no corra como código. 
 -[X]: Se utiliza para crear una lista de tareas hechas en este caso se le pone la x para que aparezca palomeada la casilla y si no tiene x sale vacía.
 
-# Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción nos permite trabajar de manera colaborativa. 
+#### Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción nos permite trabajar de manera colaborativa. 
 
-## Los 6 comandos más importantes:
+#### Los 6 comandos más importantes:
 - pwd: Sirve para ver en cual directorio te encuentras.
 - cd: Sirve para situarse dentro del directorio.
 - ls: Sirve para listar toda la información que se encuentra en donde estamos.
@@ -53,7 +54,7 @@ _ …. _ ó * ... *: Se utiliza para poner el texto en itálica o cursiva.
 - mkdir: Sirve para crear directorios.
 - touch: Sirve para crear una carpeta con los archivos.
 
-## Recursos de apoyo:
+#### Recursos de apoyo:
 Los recursos de apoyo que la misma página ofrece están en el siguiente link:(https://docs.github.com/es/github), ahí hay 33 link para ayudar sobre cualquier situación que se ocupe desde como conocer la plataforma crear una cuenta hasta encontrar errores en el código. Aparte de que si ninguno de esos temas te ayuda hay un servicio de soporte técnico en el que resuelven cualquier duda relacionada con GitHub.
 
 ### Referencias:
