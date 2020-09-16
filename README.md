@@ -28,15 +28,16 @@
 Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción nos permite trabajar de manera colaborativa. 
 
 Los 6 comandos más importantes:
-- pwd: Sirve para ver en que directorio te encuentras.
+- pwd: Sirve para ver en cual directorio te encuentras.
 - cd: Sirve para situarse dentro del directorio.
-- ls: Sirve para listar toda la informacion que se encuentra en donde estamos.
+- ls: Sirve para listar toda la información que se encuentra en donde estamos.
 - ll: Sirve para listar en grande.
 - mkdir: Sirve para crear directorios.
-- touch: Sirve para crear un carpeta con los archivos.
+- touch: Sirve para crear una carpeta con los archivos.
+
 
 Fuentes:
 
-Floriano, S. (2019, Enero 22). La guía básica de Git y Github para principiantes. Recuperada en Septiembre 16, 2020, de https://medium.com/@sthefany/primeros-pasos-con-github-7d5e0769158c
+[1] Floriano, S. (2019, Enero 22). La guía básica de Git y Github para principiantes. Recuperada en Septiembre 16, 2020, de https://medium.com/@sthefany/primeros-pasos-con-github-7d5e0769158c
 
-La guía sencilla. (s.f.). Recuperada en Septiembre 16, 2020, de https://rogerdudler.github.io/git-guide/index.es.html
+[2] La guía sencilla. (s.f.). Recuperada en Septiembre 16, 2020, de https://rogerdudler.github.io/git-guide/index.es.html
