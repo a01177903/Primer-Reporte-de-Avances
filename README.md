@@ -31,11 +31,11 @@
 ### Guía Rápida de GitHub
 
 ###: Se utiliza para que entre más # se pongan el encabezado es más grande (6 de #) así hasta solo poner un solo #.
-**......**: Se utiliza para poner el texto en negritas.
+*x2: Se utiliza para poner el texto en negritas.
 
-~~...~~: Se utiliza para tachar el texto.
+~x2: Se utiliza para tachar el texto.
 
-***.....***: Se utiliza para poner el texto en negritas y en cursiva.
+*x3: Se utiliza para poner el texto en negritas y en cursiva.
 
 _ …. _ ó * ... *: Se utiliza para poner el texto en itálica o cursiva.
 
