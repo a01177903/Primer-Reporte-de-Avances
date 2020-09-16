@@ -25,6 +25,8 @@
 
 ### Guía Rápida de GitHub
 
+Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción nos permite trabajar de manera colaborativa. 
+
 Los 6 comandos más importantes:
 - pwd: Sirve para ver en que directorio te encuentras.
 - cd: Sirve para situarse dentro del directorio.
