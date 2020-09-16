@@ -64,7 +64,7 @@ _ …. _ ó * ... *: Se utiliza para poner el texto en itálica o cursiva.
 - touch: Sirve para crear una carpeta con los archivos.
 
 #### Recursos de apoyo:
-Los recursos de apoyo que la misma página ofrece están en el siguiente link:(https://docs.github.com/es/github), ahí hay 33 link para ayudar sobre cualquier situación que se ocupe desde como conocer la plataforma crear una cuenta hasta encontrar errores en el código. Aparte de que si ninguno de esos temas te ayuda hay un servicio de soporte técnico en el que resuelven cualquier duda relacionada con GitHub.
+Los recursos de apoyo que la misma página ofrece están en el siguiente link: (https://docs.github.com/es/github), ahí hay 33 link para ayudar sobre cualquier situación que se ocupe desde como conocer la plataforma crear una cuenta hasta encontrar errores en el código. Aparte de que si ninguno de esos temas te ayuda hay un servicio de soporte técnico en el que resuelven cualquier duda relacionada con GitHub.
 
 ### Referencias:
 
