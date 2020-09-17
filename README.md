@@ -6,7 +6,7 @@
 - Diana Romero A01177903 
 - Edgardo Cantú A01283899 
 
-### Empresas Identificadas Individualmente
+## Empresas Identificadas Individualmente
 
 | Empresa | Sector | ¿En qué consiste? | Problemática |
 | ----- | ---- | ------------------------ | ------------------------ |
@@ -35,15 +35,15 @@ Mediante los beneficios que ofrece el modelo IoT, le da diferentes incentivos a 
 5. **¿Qué datos se generan y registran durante este proceso?**  
 Principalmente se generan datos de la actividad de sus usuarios, ya sea tanto de seguridad como de actividad en los demás servicios que ofrece AWS IoT. Esto con la finalidad de generar un algoritmo que pueda predecir las acciones de sus usuarios para brindarles un mejor servicio. Este algoritmo tiene un valor agregado ya que tiene más datos porque tiene más servicios, lo que hace que las predicciones sean más acertadas.   
 
-### Guía Rápida de GitHub
+## Guía Rápida de GitHub
 
-**Estilos de Texto:** 
+### Estilos de Texto:
 
 https://github.com/CristinaEsp/Primer-Reporte-de-Avances/issues/1#issue-703192427
 
 Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción nos permite trabajar de manera colaborativa. 
 
-**Los 6 comandos más importantes:**
+### Los 6 comandos más importantes:
 - pwd: Sirve para ver en cual directorio te encuentras.
 - cd: Sirve para situarse dentro del directorio.
 - ls: Sirve para listar toda la información que se encuentra en donde estamos.
@@ -51,11 +51,24 @@ Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción n
 - mkdir: Sirve para crear directorios.
 - touch: Sirve para crear una carpeta con los archivos.
 
-**Los recursos de apoyo:**
-Los recursos de apoyo que la misma página ofrece están en el siguiente link:
-https://docs.github.com/es/github, ahí hay 33 link para ayudar sobre cualquier situación que se ocupe desde como conocer la plataforma crear una cuenta hasta encontrar errores en el código. Aparte de que si ninguno de esos temas te ayuda hay un servicio de soporte técnico en el que resuelven cualquier duda relacionada con GitHub.
+### Acciones Iniciales 
+**Crear una Branch** 
+1. Ir a tu repositorio principal
+2. Haz clic en el menú desplegable en la parte superior de la lista de archivos que dice branch: main.
+3. Escriba un nombre de rama, readme-edits, en el cuadro de texto de nueva rama.
+4. Seleccione el cuadro azul Crear rama o presione "Enter" en su teclado.  
 
-### Bibliografía:
+**Manejar un Pull Request**  
+1. En la página principal del repositorio, seleccionar `Pull Requests` y haz clic en `New Pull Request`
+2. Seleccionar la branch con la compararás las modificaciones
+3. Una vez satisfecho con los cambios, haz clic `Create Pull Request` e indica el título correspondiente.
+4. Una vez terminando esto, seleccionar `Merge Pull Request`, `Confirm merge`y `Delete branch`(si ese branch ya no estará activo.
+
+### Los recursos de apoyo: 
+Los recursos de apoyo que la misma página ofrece están en el siguiente link:
+https://docs.github.com/es/github, ahí hay 33 links para ayudar sobre cualquier situación que se ocupe desde como conocer la plataforma crear una cuenta hasta encontrar errores en el código. Aparte de que si ninguno de esos temas te ayuda hay un servicio de soporte técnico en el que resuelven cualquier duda relacionada con GitHub.  
+
+## Bibliografía:
 
 [1] Floriano, S. (2019, Enero 22). La guía básica de Git y Github para principiantes. Recuperada en Septiembre 16, 2020, de https://medium.com/@sthefany/primeros-pasos-con-github-7d5e0769158c
 
