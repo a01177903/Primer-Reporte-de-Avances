@@ -62,7 +62,7 @@ Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción n
 1. En la página principal del repositorio, seleccionar `Pull Requests` y haz clic en `New Pull Request`
 2. Seleccionar la branch con la compararás las modificaciones
 3. Una vez satisfecho con los cambios, haz clic `Create Pull Request` e indica el título correspondiente.
-4. Una vez terminando esto, seleccionar `Merge Pull Request`, `Confirm merge`y `Delete branch`(si ese branch ya no estará activo.
+4. Una vez terminando esto, seleccionar `Merge Pull Request`, `Confirm merge`y `Delete branch`(si ese branch ya no estará activo y así se desea)
 
 ### Los recursos de apoyo: 
 Los recursos de apoyo que la misma página ofrece están en el siguiente link:
