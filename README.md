@@ -43,7 +43,7 @@ Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción n
 Los recursos de apoyo que la misma página ofrece están en el siguiente link:
 https://docs.github.com/es/github, ahí hay 33 link para ayudar sobre cualquier situación que se ocupe desde como conocer la plataforma crear una cuenta hasta encontrar errores en el código. Aparte de que si ninguno de esos temas te ayuda hay un servicio de soporte técnico en el que resuelven cualquier duda relacionada con GitHub.
 
-**Bibliografía:**
+### Bibliografía:
 
 [1] Floriano, S. (2019, Enero 22). La guía básica de Git y Github para principiantes. Recuperada en Septiembre 16, 2020, de https://medium.com/@sthefany/primeros-pasos-con-github-7d5e0769158c
 
