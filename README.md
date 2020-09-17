@@ -16,7 +16,7 @@
 | KORE Wireless | Sector Automotriz | Su modelo es el proveedor de datos de red inalámbrica para proveer aplicaciones de IoT y máquinas diseñadas para ofrecer velocidad para salir al mercado aparte de confianza en la parte económica competitiva y acelerada. Es una app para la gestión de flotas que mejoran la eficiencia operativa, mantienen los vehículos monitoreados en sus recorridos aparte de ayudar al crecimiento. | La problemática que resuelve principalmente es para saber el mantenimiento predictivo, la interacción en tiempo real para la asistencia  necesaria para mantenimiento remotos, también tiene una tecnología de rastreo para aumentar la seguridad del vehículo y por consiguiente reducir el riesgo de robo. |
 | Google | Sector Empresarial, de Información, de Desarrollo y Automatización. | Contienen diversos modelos IoT por ejemplo: Google Drive (Servicio de Nube), Google Nest (Termostato inteligente que estudia los patrones del dueño al regular dicho termostato), entre muchos otros. | Este resuelve guardar cualquier información que el usuario deseé en un servicio de almacenamiento de datos de alta capacidad dependiendo a la preferencia del usuario. Por otra parte, la solución de Google Nest, es evitar cualquier accidente y hace que el usuario cambie la temperatura con pasos muy reducidos desde el celular o el mismo termostato lo hace por ti dependiendo los patrones que ha estudiado el dispositivo. |
 
-### El modelo de uso de IoT seleccionado colaborativamente: Amazon
+## El modelo de uso de IoT seleccionado colaborativamente: Amazon
 1. **¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?**  
 Tuvimos una lluvia de ideas acerca de empresas que tengan implementado modelos de IoT y en este caso se hizo un desglose de dichas empresas junto con la descripción del modelo. La selección de la empresa fue mediante una votación analizando su modelo y la información que podemos obtener al respecto. Amazon fue la más votada entre los integrantes.  
 
@@ -39,9 +39,7 @@ Principalmente se generan datos de la actividad de sus usuarios, ya sea tanto de
 
 ### Estilos de Texto:
 
-https://github.com/CristinaEsp/Primer-Reporte-de-Avances/issues/1#issue-703192427
-
-Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción nos permite trabajar de manera colaborativa. 
+https://github.com/CristinaEsp/Primer-Reporte-de-Avances/issues/1#issue-703192427 
 
 ### Los 6 comandos más importantes:
 - pwd: Sirve para ver en cual directorio te encuentras.
@@ -52,6 +50,7 @@ Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción n
 - touch: Sirve para crear una carpeta con los archivos.
 
 ### Acciones Iniciales 
+Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción nos permite trabajar de manera colaborativa.  
 **Crear una Branch** 
 1. Ir a tu repositorio principal
 2. Haz clic en el menú desplegable en la parte superior de la lista de archivos que dice branch: main.
@@ -62,7 +61,7 @@ Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción n
 1. En la página principal del repositorio, seleccionar `Pull Requests` y haz clic en `New Pull Request`
 2. Seleccionar la branch con la compararás las modificaciones
 3. Una vez satisfecho con los cambios, haz clic `Create Pull Request` e indica el título correspondiente.
-4. Una vez terminando esto, seleccionar `Merge Pull Request`, `Confirm merge`y `Delete branch`(si ese branch ya no estará activo y así se desea)
+4. Una vez terminando esto, seleccionar `Merge Pull Request`, `Confirm merge` y `Delete branch`(si ese branch ya no estará activo y así se desea)
 
 ### Los recursos de apoyo: 
 Los recursos de apoyo que la misma página ofrece están en el siguiente link:
