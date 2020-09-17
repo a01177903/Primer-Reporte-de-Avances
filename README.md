@@ -19,11 +19,21 @@
 ### El modelo de uso de IoT seleccionado colaborativamente: Amazon
 1. **¿Cuál fue el criterio y/o metodología de selección empleado por el equipo?**
 Tuvimos una lluvia de ideas acerca de empresas que tengan implementado modelos de IoT y en este caso se hizo un desglose de dichas empresas junto con la descripción del modelo. La selección de la empresa fue mediante una votación analizando su modelo y la información que podemos obtener al respecto. Amazon fue la más votada entre los integrantes.
+
 2. **¿Quiénes son los usuarios, clientes o beneficiarios de este modelo?**
 Los que se benefician son los clientes, ya que buscan comprar cosas en internet por medio de la aplicación de Amazon, dado que se tiene una buena eficiencia, aparte de que es una plataforma segura que trata de evolucionar constantemente para mejorar su servicio al cliente.
+
 3. **¿Cuál es la propuesta de valor para estos públicos?**
+El mayor beneficio de los usuarios de Amazon es la conectividad con todos los servicios de la compañía; los servicios de esta compañía son: 
+- Device software: Conecte sus dispositivos y utilícelos en el borde. 
+- Connectivity & control services: Asegure, controle y administre sus dispositivos desde la nube. 
+- Connectivity & control services: Trabaje con datos de IoT más rápido para extraer valor de sus datos de IoT. 
+
 4. **¿Cuál es el proceso que involucra a estos públicos?**
+Mediante los beneficios que ofrece el modelo IoT, le da diferentes incentivos a los clientes para obtener dicho modelo. De acuerdo con la página Digiteum, uno de los beneficios de la marca es que promueve una fuerte seguridad. Cada servicio de la plataforma AWS IoT proporciona características de seguridad que incluyen autenticación y autorización integradas, monitoreo del comportamiento del dispositivo y alertas. Además de eso, la plataforma permite la integración de tecnologías y procedimientos de seguridad personalizados. Este ha sido uno de los problemas que los clientes buscan resolver y precisamente este modelo les permite solucionar dicho problema.
+
 5. **¿Qué datos se generan y registran durante este proceso?**
+
 
 ### Guía Rápida de GitHub
 
