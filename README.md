@@ -39,7 +39,7 @@ Principalmente se generan datos de la actividad de sus usuarios, ya sea tanto de
 
 ### Estilos de Texto:
 
-https://github.com/CristinaEsp/Primer-Reporte-de-Avances/issues/1#issue-703192427 
+![github-small] (https://github.com/CristinaEsp/Primer-Reporte-de-Avances/issues/1#issue-703192427) 
 
 ### Los 6 comandos más importantes:
 - pwd: Sirve para ver en cual directorio te encuentras.
