@@ -27,18 +27,7 @@
 
 **Estilos de Texto:** 
 
-### : Se utiliza para que entre más # se pongan el encabezado es más grande (6 de #) así hasta solo poner un solo #.
-**......**  :Se utiliza para poner el texto en negritas.
-~~...~~ :Se utiliza para tachar el texto.
-***.....*** :Se utiliza para poner el texto en negritas y en cursiva.
-_ …. _ ó * ... * : Se utiliza para poner el texto en itálica o cursiva.
-- :Se utiliza para indicar una lista y es un tipo de viñetas
-1. :Se utiliza para enumerar e indicar una lista
-> :Se utiliza al principio del texto para indicar que es frase o texto de otra persona y crea un fondo de color diferente en ese texto solamente.
-[ …. ] ó ( ... ) :Se utiliza para indicar un hyperlink. En los corchetes se indica el nombre del link y entre paréntesis la url de la página, video, etc.
-`Código` : Se utiliza para indicar que lo que está entre los tildes es línea de código
-```markdown ``` : Se utiliza para escribir texto y que no corra como código. 
--  [X] :Se utiliza para crear una lista de tareas hechas en este caso se le pone la x para que aparezca palomeada la casilla y si no tiene x sale vacía.
+https://github.com/CristinaEsp/Primer-Reporte-de-Avances/issues/1#issue-703192427
 
 Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción nos permite trabajar de manera colaborativa. 
 
