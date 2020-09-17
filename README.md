@@ -51,7 +51,7 @@ Principalmente se generan datos de la actividad de sus usuarios, ya sea tanto de
 
 ### Acciones Iniciales 
 Para publicar nuestro proyecto utilizamos la opción de 'Branch', esta opción nos permite trabajar de manera colaborativa.  
-**Crear una Branch** 
+**Crear una Branch**
 1. Ir a tu repositorio principal
 2. Haz clic en el menú desplegable en la parte superior de la lista de archivos que dice branch: main.
 3. Escriba un nombre de rama, readme-edits, en el cuadro de texto de nueva rama.
