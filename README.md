@@ -32,8 +32,8 @@ El mayor beneficio de los usuarios de Amazon es la conectividad con todos los se
 4. **¿Cuál es el proceso que involucra a estos públicos?**  
 Mediante los beneficios que ofrece el modelo IoT, le da diferentes incentivos a los clientes para obtener dicho modelo. De acuerdo con la página Digiteum, uno de los beneficios de la marca es que promueve una fuerte seguridad. Cada servicio de la plataforma AWS IoT proporciona características de seguridad que incluyen autenticación y autorización integradas, monitoreo del comportamiento del dispositivo y alertas. Además de eso, la plataforma permite la integración de tecnologías y procedimientos de seguridad personalizados. Este ha sido uno de los problemas que los clientes buscan resolver y precisamente este modelo les permite solucionar dicho problema.  
 
-5. **¿Qué datos se generan y registran durante este proceso?**
-
+5. **¿Qué datos se generan y registran durante este proceso?**  
+Principalmente se generan datos de la actividad de sus usuarios, ya sea tanto de seguridad como de actividad en los demás servicios que ofrece AWS IoT. Esto con la finalidad de generar un algoritmo que pueda predecir las acciones de sus usuarios para brindarles un mejor servicio. Este algoritmo tiene un valor agregado ya que tiene más datos porque tiene más servicios, lo que hace que las predicciones sean más acertadas.   
 
 ### Guía Rápida de GitHub
 
